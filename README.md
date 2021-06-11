@@ -1,4 +1,4 @@
-### Olá, meu nome é Guilherme Souza! 👋
+### Olá, sou Guilherme Souza! 👋
 
 🚀 Junior Android em [Solinftec](https://solinftec.com/pt-br/) <br>
 🇧🇷 Nasci em Bilac/SP, Brasil <br>
