@@ -1,6 +1,6 @@
 ### Olá, sou Guilherme Souza! 👋
 
-🚀 Junior Android em [Solinftec](https://solinftec.com/pt-br/) <br>
+🚀 DesenvolvedorAndroid em [Solinftec](https://solinftec.com/pt-br/) <br>
 🇧🇷 Nasci em Bilac/SP, Brasil <br>
 
 ### Redes sociais 🌎
